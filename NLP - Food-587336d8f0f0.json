@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nlp---food-1569880148570",
+  "private_key_id": "587336d8f0f0ad6f59bfe69fb2ce0fcd56fece75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5+FU+zWAj/Ht6\n65gbq3KmT/oycmUX7w/ZoJwVR/8NBDAeFS7QzF6XDcrXkwj38dsGd7+dAN4pUIfU\nVb8sE0ziFa8ABAesxgEq3CoENtEVUMtkrBieSAYNY/Gz8881uqMsmfSBLAvnUjTN\nyhWBLhsxZW3jxWyeD/UPiQ/xiPcUc6FmCifNX9HCXmWvxRCNIQPwBxnHTerGk8st\n0j6c7qA1VqTSOliepFRi3XUeVa/aWHBkJ8ymtjlEF7MULeQFLz4BraTLhj3UGVfq\nbag7hlUjueyFNDEGnfB5798uqO1PlnecuIUGhMr6ds2ZUxD6cJjh2zaeAHGvRcy+\nWx8XxqxpAgMBAAECggEACiB2feS/oT4IuFUXc5xGsj1FLdWSYTcEqTBoh3Uj86DA\ngQbcxYR3eyjGXK5WTPAn4eaH8eP/9QZ8WwjvT9ZeN6qAHNNbWqJuoleaVx/oC03a\nwYjoj0fzQmvol8jFRhL7ezyH9rfADzDoDLO+L4pj8zDnhsFzrHjIerfXPSsc70lT\nl7GiYCDO5461JMlujf2tZqadRKciptEqlXcFp47qw3P+fwZF2vpg3t61ShHLDSIY\nXpWNGISGlq3TzU9yyaLbZxsLWukXVZDITcOaZRE2N1uSfZdIWU39IDhRmQH58dSD\nFXKfpVhcNGaBeRYIzhyIu/p/ZPnfRCBpHb36MAxBPQKBgQD/dR9Ugib7LpXGdHlG\nUhKGimVl36FTfrfGnk/FIt0OSzUWWTpcUvEb0xgNfgbX39nwXYGu6+beX5lR5/Qo\nJUJPxUV/F6DZAuj0ITop63avjo9vjYojjTRWoM1uBWnTTXf4HytW9JSj5SNzYUno\n0Ca7DgqNUL8qkPvkSaOc/1YAlQKBgQC6XW8rVAg34DnW4Sg4q6BL6bp06+U9IfYQ\ndX+h6TcLtb82j8GRW8UFk7FhL6TlyuNkvH/w2vS4gicUtmuwf7PBh9IebMs2G3Ft\nBLFtuuIOvUxbfe4rDuZC6ObqguP3m51Y9E9SHlj88F4ah9bOvRFC/TTvtdwP3Y3g\nVswQoPQjhQKBgG949mD0Inp9S5I8BSewbLEU90ZLHaTHqP4c2wZVPk0ceF/2M8dR\n0jCoHtjUY7wTzJBc3VgtTKNA6DCbnSlfiN4yYS8iamgIIwtU7IKaY0IcXW76Potg\n9LPQm5Qk/JbeOTmmsEzTkYErXhrdG1lia2Q4rlYYJDM47RIjKCg8K5U5AoGAF8O0\nWl0T0zQ3i+wYOenAvg1m5mPyTnJXM1AYX2giyc56PJXmRAfkvspPkyoFJ/xQNNdI\npUj2bdTC8QQ2BUKzhFkydQjAfPzQ4Or5SRnMm76Nzxjm1vzGZf/W+k6IjVl9ngtB\nViJijJaGGXH69U/stJMfPfX9wtQotFO9H922ZBUCgYA4UGosAYQECmbqPb8zoE0l\n5asH9LJHal2WGpxGcJjdfhh+9t+dj/bHtCpFv8ivjNSolzvPDi4YC9oAsOCuBjI5\n/us+HuxarGPu4LUTHk6Y2m/FpqeiCQ012g32AubL6dPY5rv5ii249znr00lmAuS1\no6Xlj/hM9ZeY1iV3IzZmAw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ynubnp@nlp---food-1569880148570.iam.gserviceaccount.com",
+  "client_id": "104274881659252211605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ynubnp%40nlp---food-1569880148570.iam.gserviceaccount.com"
+}
